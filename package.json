@@ -1,0 +1,23 @@
+{
+  "name": "discord-debile",
+  "version": "1.0.0",
+  "description": "Rozni fajni ludzie, debile, 2heady i fake devi na Discordzie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okti-69/node-discord-debile.git"
+  },
+  "keywords": [
+    "discord",
+    "debile"
+  ],
+  "author": "okti-69",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/okti-69/node-discord-debile/issues"
+  },
+  "homepage": "https://github.com/okti-69/node-discord-debile#readme"
+}
